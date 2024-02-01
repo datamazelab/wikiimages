@@ -1,0 +1,41 @@
+1.Consent Form
+	a. Flows to 2
+2. Warm-Up Question
+	a. 50% chance that it flows to 3
+	b. 50% chance that it flows to 4
+3. Article #1 with image & Questions
+	a. flows to 5 after the article is viewed and questions are answered
+4. Article #1 without image & Questions
+	a. flows to 5 after the article is viewed and questions are answered
+5. Fun Fact #1
+	a. 50% chance that it flows to 6
+	b. 50% chance that it flows to 7
+6. Article #2 with image & Questions
+	a. flows to 8 after the article is viewed and questions are answered
+7. Article #2 without image & Questions
+	a. flows to 8 after the article is viewed and questions are answered
+8. Fun Fact #2
+	a. 50% chance that it flows to 9
+	b. 50% chance that it flows to 10
+9. Article #3 with image & Questions
+	a. flows to 11 after the article is viewed and questions are answered
+10. Article #3 without image & Questions
+	a. flows to 11 after the article is viewed and questions are answered
+11. Demographics Form
+	a. Flows to the 12
+12. Cheating & Technical Questionnaire
+	a. Flows to 13
+13. Results
+
+Sub-flow of (3, 4, 6, 7, 9, 10):
+Within each Article with or without an image and Questions this is the following flow:
+
+1. Article Knowledge (Familiarity) Question
+	a. Flows to 2
+2. Article with the image or without the image
+	a. Flows to 3
+3. 1 Non-Visual (General) Question randomly picked from 2 options of generated questions on the previously viewed article topic
+	a. Flows to 4
+4. 1 Visual Question randomly picked from 2 options of generated questions on the previously viewed article topic
+	a. Flows to 5
+5. Image Recognition Question

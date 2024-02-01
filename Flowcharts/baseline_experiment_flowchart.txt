@@ -1,0 +1,26 @@
+1.Consent Form
+	a. Flows to 2
+2. Article  #1 Questions
+	a. Flows to 3
+3. Article  #2 Questions
+	a. Flows to 4
+4. Demographics Form
+	a. Flows to 5
+5. Cheating & Technical Questionnaire
+	a. Flows to 6
+6. Completion Code display
+
+Sub-flow of (2, 3):
+Within each Article Questions there is the following sub-flow:
+
+1. Article Knowledge (Familiarity) Question
+	a. Flows to 2
+2. #1 Non-Visual (General) Question generated questions on the article topic
+	a. Flows to 3
+3. #2 Non-Visual (General) Question generated questions on the article topic
+	a. Flows to 4
+4. #1 Visual Question generated questions on the article topic
+	a. Flows to 5
+5. #2 Visual Question generated questions on the article topic
+	a. Flows to 6
+6. Image Recognition Question

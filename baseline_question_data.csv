@@ -1,0 +1,435 @@
+,participant_id,ed_level,english,age,q_type,indv_q_score,knowledge,q_time,vis_q_consistency,article_title,article_id,question
+0,15753933298135549085,graduate school,Advanced,23,non_vis,0,1,30.693,,David (Donatello),308,What material is Donatelloâs David made of?
+1,15753933298135549085,graduate school,Advanced,23,non_vis,0,1,23.358,,David (Donatello),308,Is David in Donatelloâs sculpture smiling?
+2,15753933298135549085,graduate school,Advanced,23,non_vis,0,1,7.651,,Pincho,54,What is the usual base of a pincho?
+3,15753933298135549085,graduate school,Advanced,23,non_vis,0,1,6.216,,Pincho,54,"Why are they called ""pinchos""?"
+4,15753933298135549085,graduate school,Advanced,23,vis,1,1,4.893,,David (Donatello),308,"Where is Donatelloâs David located?
+
+"
+5,15753933298135549085,graduate school,Advanced,23,vis,0,1,8.843,,David (Donatello),308,Who commissioned the statue according to scholars?
+6,15753933298135549085,graduate school,Advanced,23,vis,0,1,5.395,1,Pincho,54,In what part of Spain are pinchos traditionally consumed?
+7,15753933298135549085,graduate school,Advanced,23,vis,0,1,4.974,0,Pincho,54,Where are pinchos typically consumed?
+8,15753933298135549085,graduate school,Advanced,23,image,1,1,10.72,,David (Donatello),308,Which one is Donatello's David?
+9,15753933298135549085,graduate school,Advanced,23,image,1,1,7.999,,Pincho,54,Which is a pincho?
+10,16991882249711996358,high school,Advanced,21,non_vis,0,1,28.524,,Newgrange,61,What is the front retaining wall of the mound made of?
+11,16991882249711996358,high school,Advanced,21,non_vis,0,1,10.849,,Newgrange,61,What is the shape of the passage tomb mound?
+12,16991882249711996358,high school,Advanced,21,non_vis,0,2,8.413,,Taos Pueblo,153,How are houses built in the Pueblo positioned in relation to each other?
+13,16991882249711996358,high school,Advanced,21,non_vis,1,2,7.251,,Taos Pueblo,153,What were the Taos Pueblo walls constructed out of?
+14,16991882249711996358,high school,Advanced,21,vis,1,1,15.853,0,Newgrange,61,During which period was Newgrange built?
+15,16991882249711996358,high school,Advanced,21,vis,0,1,8.984,1,Newgrange,61,When is the entrance to Newgrange aligned with the rising sun?
+16,16991882249711996358,high school,Advanced,21,vis,1,2,8.141,1,Taos Pueblo,153,What was the primary purpose of the north-side Pueblo when it was built?
+17,16991882249711996358,high school,Advanced,21,vis,1,2,7.1,1,Taos Pueblo,153,How many rooms do most of the homes in the Taos Pueblo contain?
+18,16991882249711996358,high school,Advanced,21,image,1,1,8.363,,Newgrange,61,Which is the Newgrange passage tomb?
+19,16991882249711996358,high school,Advanced,21,image,1,2,5.802,,Taos Pueblo,153,Which is the Taos Pueblo?
+20,12330140005983011656,graduate school,Upper-Intermediate,24,non_vis,1,3,6.885,,Carolina Reaper,884,"When fully ripe, about how big is a Carolina Reaper pepper?"
+21,12330140005983011656,graduate school,Upper-Intermediate,24,non_vis,1,3,9.455,,Carolina Reaper,884,What texture is the Carolina Reaper Pepper?
+22,12330140005983011656,graduate school,Upper-Intermediate,24,non_vis,1,1,19.146,,Akara,991,AcarajÃ© is made from cooked and mashed cowpeas deep-fried in what kind of oil?
+23,12330140005983011656,graduate school,Upper-Intermediate,24,non_vis,0,1,7.848,,Akara,991,What is the difference between acarajÃ© and abara?
+24,12330140005983011656,graduate school,Upper-Intermediate,24,vis,1,3,20.304,0,Carolina Reaper,884,How many Scotville Heat Units (SHU) did the hottest individual Carolina Reaper measure?
+25,12330140005983011656,graduate school,Upper-Intermediate,24,vis,0,3,9.03,1,Carolina Reaper,884,The Carolina Reaper has been described as having what kind of taste?
+26,12330140005983011656,graduate school,Upper-Intermediate,24,vis,0,1,7.238,,Akara,991,"In the Yoruba culture, akara was specially prepared when what event occurred?"
+27,12330140005983011656,graduate school,Upper-Intermediate,24,vis,0,1,7.904,,Akara,991,In which state is the dish traditionally encountered in Brazil?
+28,12330140005983011656,graduate school,Upper-Intermediate,24,image,1,3,8.139,,Carolina Reaper,884,Which is a Carolina Reaper pepper?
+29,12330140005983011656,graduate school,Upper-Intermediate,24,image,0,1,9.5,,Akara,991,Which is akara?
+30,5927243409490070104,graduate school,Advanced,30,non_vis,0,1,13.782,,Ingapirca,479,What is the shape of the Temple of the Sun?
+31,5927243409490070104,graduate school,Advanced,30,non_vis,0,1,11.127,,Ingapirca,479,"What does it mean that the Temple of the Sun was constructed in the ""Inca way""?"
+32,5927243409490070104,graduate school,Advanced,30,non_vis,1,1,7.189,,Cafe du Monde,743,What are beignets served with at CafÃ© du Monde?
+33,5927243409490070104,graduate school,Advanced,30,non_vis,0,1,7.524,,Cafe du Monde,743,What shape are CafÃ© du Monde beignets?
+34,5927243409490070104,graduate school,Advanced,30,vis,1,1,11.491,1,Ingapirca,479,Who originally settled the area of Ingapirca?
+35,5927243409490070104,graduate school,Advanced,30,vis,0,1,23.212,0,Ingapirca,479,What modern-day Ecuadorian city did the Inca TÃºpac Yupanqui improve as a political strategy to conquer the indigenous people of Ingapirca?
+36,5927243409490070104,graduate school,Advanced,30,vis,1,1,8.703,,Cafe du Monde,743,What special ingredient is added to the coffee at CafÃ© du Monde?
+37,5927243409490070104,graduate school,Advanced,30,vis,1,1,6.26,,Cafe du Monde,743,Who brought beignets to New Orleans in the 18th century?
+38,5927243409490070104,graduate school,Advanced,30,image,0,1,10.377,,Ingapirca,479,Which is Ingapirca?
+39,5927243409490070104,graduate school,Advanced,30,image,1,1,14.224,,Cafe du Monde,743,Which is a beignet from Cafe du Monde?
+40,13231315721027208165,graduate school,Advanced,32,non_vis,1,1,11.596,,El Panecillo,655,What aspect of the Virgin of El Panecillo is considered untraditional?
+41,13231315721027208165,graduate school,Advanced,32,non_vis,1,1,4.429,,El Panecillo,655,What is the Virgin of El Panecillo made of?
+42,13231315721027208165,graduate school,Advanced,32,non_vis,1,1,10.891,,Qutb Minar,456,What material are the bottom three storeys of columns made of?
+43,13231315721027208165,graduate school,Advanced,32,non_vis,1,1,8.985,,Qutb Minar,456,What is unique about the decoration of the balconies of the Qutb Minar?
+44,13231315721027208165,graduate school,Advanced,32,vis,1,1,4.82,1,El Panecillo,655,What religious order commissioned the building of the Virgin of El Panecillo?
+45,13231315721027208165,graduate school,Advanced,32,vis,1,1,4.692,0,El Panecillo,655,"According to Jesuit historian Juan de Velasco, what was located on top of El Panecillo before the arrival of the Spanish?"
+46,13231315721027208165,graduate school,Advanced,32,vis,1,1,11.467,0,Qutb Minar,456,Who was the Qutb Minar named after?
+47,13231315721027208165,graduate school,Advanced,32,vis,1,1,7.53,1,Qutb Minar,456,What is the only other brick minaret that is possibly older than the Qutb Minar?
+48,13231315721027208165,graduate school,Advanced,32,image,0,1,15.294,,El Panecillo,655,Which is the Virgen of El Panecillo?
+49,13231315721027208165,graduate school,Advanced,32,image,1,1,9.394,,Qutb Minar,456,Which is the Qutb Minar?
+50,4922199212525045640,high school,Advanced,35,non_vis,1,1,22.009,,Shingle Style Architecture,356,What feature was common for shingle style houses?
+51,4922199212525045640,high school,Advanced,35,non_vis,0,1,19.576,,Shingle Style Architecture,356,What is a famous example of the shingle style house?
+52,4922199212525045640,high school,Advanced,35,non_vis,1,1,8.133,,Gujia,296,What shape is a Gujia?
+53,4922199212525045640,high school,Advanced,35,non_vis,0,1,9.305,,Gujia,296,How is a gujia prepared?
+54,4922199212525045640,high school,Advanced,35,vis,0,1,16.714,0,Shingle Style Architecture,356,Where is Shingle style architecture in the United States most often found?
+55,4922199212525045640,high school,Advanced,35,vis,0,1,12.099,0,Shingle Style Architecture,356,The shingle style was a response to which architectural movement?
+56,4922199212525045640,high school,Advanced,35,vis,1,1,7.186,1,Gujia,296,Which country is Gujia from?
+57,4922199212525045640,high school,Advanced,35,vis,0,1,5.903,0,Gujia,296,What is a common filling for Gujia?
+58,4922199212525045640,high school,Advanced,35,image,0,1,15.696,,Shingle Style Architecture,356,Which is an example of the shingle style?
+59,4922199212525045640,high school,Advanced,35,image,0,1,18.291,,Gujia,296,Which is an example of a Gujia?
+60,14539199723259775894,high school,Advanced,24,non_vis,0,1,16.8,,Al pastor,202,What fruit is diced and served on top of the taco al pastor?
+61,14539199723259775894,high school,Advanced,24,non_vis,0,1,14.983,,Al pastor,202,What herb is finely chopped and served on top of the taco al pastor?
+62,14539199723259775894,high school,Advanced,24,non_vis,1,1,13.144,,Hanok,212,What kind of roofing do hanoks have?
+63,14539199723259775894,high school,Advanced,24,non_vis,1,1,9.774,,Hanok,212,What kind of beams do hanoks use?
+64,14539199723259775894,high school,Advanced,24,vis,1,1,10.409,0,Al pastor,202,What kind of meat do tacos al pastor typically contain?
+65,14539199723259775894,high school,Advanced,24,vis,1,1,7.318,0,Al pastor,202,What Middle Eastern dish inspired the creation of tacos al pastor?
+66,14539199723259775894,high school,Advanced,24,vis,0,1,9.005,1,Hanok,212,What is the name of the floor-based heating system traditionally used in hanoks?
+67,14539199723259775894,high school,Advanced,24,vis,1,1,6.74,1,Hanok,212,What shape would a hanok in the southern regions of Korea be?
+68,14539199723259775894,high school,Advanced,24,image,1,1,15.358,,Al pastor,202,Which is tacos al pastor?
+69,14539199723259775894,high school,Advanced,24,image,1,1,10.58,,Hanok,212,Which is an example of a hanok?
+70,9599612912630448683,professional school,Upper-Intermediate,27,non_vis,1,1,38.541,,Jose Guadalupe Posada,707,What is iconic about Posada's satirical portraits?
+71,9599612912630448683,professional school,Upper-Intermediate,27,non_vis,1,1,25.554,,Jose Guadalupe Posada,707,"Who is Posada criticizing in his best known work, La Calavera Catrina?"
+72,9599612912630448683,professional school,Upper-Intermediate,27,non_vis,0,1,6.407,,South China tiger,624,"Compared to the Bengal Tiger, what does the South China tiger's coat look liket?"
+73,9599612912630448683,professional school,Upper-Intermediate,27,non_vis,0,1,17.994,,South China tiger,624,What do the South China tiger's stripes look like?
+74,9599612912630448683,professional school,Upper-Intermediate,27,vis,0,1,7.836,0,Jose Guadalupe Posada,707,What type of printing did Jose Guadalupe Posada use for his art?
+75,9599612912630448683,professional school,Upper-Intermediate,27,vis,1,1,33.185,0,Jose Guadalupe Posada,707,What magazine did Posada continue to make satirical illustrations for during the Mexican Revolution?
+76,9599612912630448683,professional school,Upper-Intermediate,27,vis,0,1,10.952,0,South China tiger,624,When was the last recorded sighting of a South China tiger in the wild?
+77,9599612912630448683,professional school,Upper-Intermediate,27,vis,1,1,10.189,1,South China tiger,624,Which of the following is frequently prey for the South China tiger?
+78,9599612912630448683,professional school,Upper-Intermediate,27,image,1,1,10.039,,Jose Guadalupe Posada,707,Which is a work by Jose Guadalupe Posada?
+79,9599612912630448683,professional school,Upper-Intermediate,27,image,1,1,8.909,,South China tiger,624,Which is the South China tiger?
+80,2363403348403634805,graduate school,Advanced,34,non_vis,0,1,45.318,,Macrolepiota procera,634,"At full maturity, which shape does the cap have?"
+81,2363403348403634805,graduate school,Advanced,34,non_vis,0,1,12.4,,Macrolepiota procera,634,What is the characteristic pattern of the parasol mushroom's cap?
+82,2363403348403634805,graduate school,Advanced,34,non_vis,0,1,14.124,,Bagna cÃ uda,594,Which type of dish is Bagna Cauda?
+83,2363403348403634805,graduate school,Advanced,34,non_vis,0,1,16.792,,Bagna cÃ uda,594,Which Color is Bagna Cauda?
+84,2363403348403634805,graduate school,Advanced,34,vis,0,1,13.519,0,Macrolepiota procera,634,"In which regions can you find the ""parasol"" mushroom?"
+85,2363403348403634805,graduate school,Advanced,34,vis,0,1,14.816,1,Macrolepiota procera,634,Is the parasol mushroom edible?
+86,2363403348403634805,graduate school,Advanced,34,vis,0,1,9.864,1,Bagna cÃ uda,594,Which Italian region is Bagna Caoda from?
+87,2363403348403634805,graduate school,Advanced,34,vis,0,1,11.916,1,Bagna cÃ uda,594,What is generally bagna caoda served with?
+88,2363403348403634805,graduate school,Advanced,34,image,1,1,15.095,,Macrolepiota procera,634,Which of these examples is a Macrolepiota procera?
+89,2363403348403634805,graduate school,Advanced,34,image,1,1,10.097,,Bagna cÃ uda,594,What is an example of Bagna Cauda?
+90,13445757054760930056,graduate school,Advanced,29,non_vis,1,1,49.867,,Quonset hut,495,What shape is the cross-section on the front and back of the Quonset hut?
+91,13445757054760930056,graduate school,Advanced,29,non_vis,1,1,75.856,,Quonset hut,495,What are the walls of the Quonset hut made of?
+92,13445757054760930056,graduate school,Advanced,29,non_vis,1,1,5.766,,Boyoz,550,What is the shape of boyoz?
+93,13445757054760930056,graduate school,Advanced,29,non_vis,1,1,9.818,,Boyoz,550,What is the most popular stuffing of boyoz?
+94,13445757054760930056,graduate school,Advanced,29,vis,1,1,11.178,1,Quonset hut,495,What war did the United States manufacture hundreds of thousands of Quonset huts for?
+95,13445757054760930056,graduate school,Advanced,29,vis,1,1,6.049,0,Quonset hut,495,Where were Quonset huts first manufactured?
+96,13445757054760930056,graduate school,Advanced,29,vis,1,1,5.401,1,Boyoz,550,What Turkish city is Boyoz associated with?
+97,13445757054760930056,graduate school,Advanced,29,vis,1,1,8.616,0,Boyoz,550,What beverage is boyoz usually served with?
+98,13445757054760930056,graduate school,Advanced,29,image,1,1,9.418,,Quonset hut,495,Which is a Quonset hut?
+99,13445757054760930056,graduate school,Advanced,29,image,1,1,6.8,,Boyoz,550,Which is boyoz?
+100,15182230491013726822,graduate school,Advanced,26,non_vis,0,1,11.535,,Erke,549,What is the exterior of the erke is wrapped in?
+101,15182230491013726822,graduate school,Advanced,26,non_vis,0,1,7.533,,Erke,549,How long can an erke be?
+102,15182230491013726822,graduate school,Advanced,26,non_vis,0,2,7.73,,Detroit-style pizza,161,What is the traditional shape of a Detroit-style pizza?
+103,15182230491013726822,graduate school,Advanced,26,non_vis,0,2,7.687,,Detroit-style pizza,161,Where is the sauce placed in a Detroit-style pizza?
+104,15182230491013726822,graduate school,Advanced,26,vis,0,1,21.177,0,Erke,549,Where are erkes used?
+105,15182230491013726822,graduate school,Advanced,26,vis,1,1,6.372,0,Erke,549,When is the erke traditionally played?
+106,15182230491013726822,graduate school,Advanced,26,vis,0,2,9,1,Detroit-style pizza,161,When was the Detroit-style pizza developed?
+107,15182230491013726822,graduate school,Advanced,26,vis,1,2,9.308,0,Detroit-style pizza,161,What type of cheese is used in Detroit-style pizza?
+108,15182230491013726822,graduate school,Advanced,26,image,1,1,15.216,,Erke,549,Which is an example of an erke?
+109,15182230491013726822,graduate school,Advanced,26,image,1,2,6.693,,Detroit-style pizza,161,What is an example of a Detroit-style pizza?
+110,5787909298195678185,high school,Advanced,53,non_vis,1,3,11.747,,Totem pole,556,How tall can totem poles be?
+111,5787909298195678185,high school,Advanced,53,non_vis,0,3,11.784,,Totem pole,556,How are characters in stories such as family legends or notable events represented on the totem pole?
+112,5787909298195678185,high school,Advanced,53,non_vis,1,2,7.918,,Fluorite,739,What are common colors of flurite?
+113,5787909298195678185,high school,Advanced,53,non_vis,0,2,6.755,,Fluorite,739,What are common colors of flurite?
+114,5787909298195678185,high school,Advanced,53,vis,0,3,9.695,0,Totem pole,556,What type of trees are totem poles usually made from?
+115,5787909298195678185,high school,Advanced,53,vis,0,3,9.921,1,Totem pole,556,The linear representation of the figures on the totem pole places importance on the highest figure.
+116,5787909298195678185,high school,Advanced,53,vis,0,2,6.741,0,Fluorite,739,What is an industrial use of fluorite?
+117,5787909298195678185,high school,Advanced,53,vis,0,2,6.741,0,Fluorite,739,Where is the largest deposit of fluorite?
+118,5787909298195678185,high school,Advanced,53,image,1,3,13.91,,Totem pole,556,Which is a totem pole?
+119,5787909298195678185,high school,Advanced,53,image,0,2,10.305,,Fluorite,739,Which is an example of fluorite?
+120,5231020820006651953,graduate school,Advanced,56,non_vis,1,1,23.795,,Eucomis,867,The eucomis has foliage on top which makes it resemble a pineapple
+121,5231020820006651953,graduate school,Advanced,56,non_vis,0,1,12.292,,Eucomis,867,What is the shape of eucomis flowers
+122,5231020820006651953,graduate school,Advanced,56,non_vis,1,3,13.048,,Monet,506,What was specific to the style of Monet and his fellow Impressionists?
+123,5231020820006651953,graduate school,Advanced,56,non_vis,1,3,8.346,,Monet,506,Did Monet predominantly use primary colors?
+124,5231020820006651953,graduate school,Advanced,56,vis,0,1,12.617,1,Eucomis,867,In which period does the eucomis flower?
+125,5231020820006651953,graduate school,Advanced,56,vis,1,1,13.186,1,Eucomis,867,Does Eucomis grow in dry regions?
+126,5231020820006651953,graduate school,Advanced,56,vis,0,3,24.48,0,Monet,506,What art movement did Monet found?
+127,5231020820006651953,graduate school,Advanced,56,vis,1,3,13.27,0,Monet,506,What is the subject of some of Monet's best-known works?
+128,5231020820006651953,graduate school,Advanced,56,image,0,1,21.081,,Eucomis,867,Which of these is an Eucomis?
+129,5231020820006651953,graduate school,Advanced,56,image,1,3,12.742,,Monet,506,Which is a Monet painting?
+130,4638991751335331312,graduate school,Advanced,41,non_vis,0,3,18.66,,Taj Mahal,833,The design of the Taj Mahal is completely symmetrical on all sides of the building.
+131,4638991751335331312,graduate school,Advanced,41,non_vis,0,3,7.219,,Taj Mahal,833,How many minarets does the Taj Mahal have?
+132,4638991751335331312,graduate school,Advanced,41,non_vis,1,3,8.478,,Blue whale,389,What is one of the distinguishing features of blue whales?
+133,4638991751335331312,graduate school,Advanced,41,non_vis,1,3,6.074,,Blue whale,389,How many blowholes does the blue whale have?
+134,4638991751335331312,graduate school,Advanced,41,vis,1,3,7.109,1,Taj Mahal,833,In what city is the Taj Mahal located?
+135,4638991751335331312,graduate school,Advanced,41,vis,1,3,6.45,1,Taj Mahal,833,What material is the Taj Mahal dome made of?
+136,4638991751335331312,graduate school,Advanced,41,vis,1,3,8.798,0,Blue whale,389,What does a blue whale's diet mostly consist of?
+137,4638991751335331312,graduate school,Advanced,41,vis,1,3,6.189,0,Blue whale,389,Is blue whale the largest species of whale?
+138,4638991751335331312,graduate school,Advanced,41,image,0,3,12.526,,Taj Mahal,833,Which is not part of the Taj Mahal?
+139,4638991751335331312,graduate school,Advanced,41,image,0,3,12.347,,Blue whale,389,Which is (part of) the skelleton of a blue whale?
+140,6905638740888537604,high school,Advanced,69,non_vis,0,1,16.863,,Leafy seadragon,307,What do leafy seadragons feed on?
+141,6905638740888537604,high school,Advanced,69,non_vis,1,1,11.055,,Leafy seadragon,307,What color is the leafy seadragon?
+142,6905638740888537604,high school,Advanced,69,non_vis,0,3,18.72,,Arc de Triomf,609,Which material is the Arc de Triompf built with?
+143,6905638740888537604,high school,Advanced,69,non_vis,0,3,8.397,,Arc de Triomf,609,What is the material of the sculture in the main frieze
+144,6905638740888537604,high school,Advanced,69,vis,1,1,9.698,0,Leafy seadragon,307,Where can the leafy seadragon be found?
+145,6905638740888537604,high school,Advanced,69,vis,0,1,9.813,1,Leafy seadragon,307,What is a distinguished characteristic of the Leafy Seadragon?
+146,6905638740888537604,high school,Advanced,69,vis,0,3,7.814,1,Arc de Triomf,609,In which occasion was the Arc de Triompf built?
+147,6905638740888537604,high school,Advanced,69,vis,1,3,9.238,0,Arc de Triomf,609,Which one is the Arc de Triompf's architectonic style?
+148,6905638740888537604,high school,Advanced,69,image,1,1,16.317,,Leafy seadragon,307,Which is a leafy seadragon?
+149,6905638740888537604,high school,Advanced,69,image,1,3,16.111,,Arc de Triomf,609,Which of these is Barcelona's Arc de Triompf?
+150,3652665286012256274,graduate school,Advanced,26,non_vis,1,1,42.048,,Imperial Crown of the Holy Roman Empire,305,How many hinged plates construct the base of the crown?
+151,3652665286012256274,graduate school,Advanced,26,non_vis,0,1,10.658,,Imperial Crown of the Holy Roman Empire,305,Are the gemstones cut into facets or round-shaped?
+152,3652665286012256274,graduate school,Advanced,26,non_vis,0,1,32.933,,Olmec colossal heads,604,How is the nose of a typical Olmec Head?
+153,3652665286012256274,graduate school,Advanced,26,non_vis,1,1,10.442,,Olmec colossal heads,604,In which material were the Olmenc Heads carved?
+154,3652665286012256274,graduate school,Advanced,26,vis,0,1,12.125,0,Imperial Crown of the Holy Roman Empire,305,When was the Crown of the  Holy Roman Empire made?
+155,3652665286012256274,graduate school,Advanced,26,vis,1,1,20.539,1,Imperial Crown of the Holy Roman Empire,305,Where is the crown being kept?
+156,3652665286012256274,graduate school,Advanced,26,vis,1,1,8.838,1,Olmec colossal heads,604,Who are the preople represented in the Olmec heads?
+157,3652665286012256274,graduate school,Advanced,26,vis,1,1,12.145,0,Olmec colossal heads,604,In which Mexican region you can find most of the Olmec heads?
+158,3652665286012256274,graduate school,Advanced,26,image,1,1,11.275,,Imperial Crown of the Holy Roman Empire,305,Which of these is the IMperial Crown of the Holy Roman Empire?
+159,3652665286012256274,graduate school,Advanced,26,image,1,1,12.37,,Olmec colossal heads,604,Which of these is a Olmec Head?
+160,16647657259695163742,graduate school,,31,non_vis,1,1,53.831,,Suspiro de limeÃ±a,334,What is the color of the cream in the Suspiro de limeÃ±a?
+161,16647657259695163742,graduate school,,31,non_vis,1,1,15.776,,Suspiro de limeÃ±a,334,Which spice is sprinkled on top of the Suspiro de limeÃ±a?
+162,16647657259695163742,graduate school,,31,non_vis,0,1,36.835,,Ketupat,220,Which is the shape Ketupat  Dumplings?
+163,16647657259695163742,graduate school,,31,non_vis,1,1,7.51,,Ketupat,220,Ketupat is rice wrapped which with type of leaves?
+164,16647657259695163742,graduate school,,31,vis,1,1,8.536,,Suspiro de limeÃ±a,334,The merengue in the top layer is made of egg white and which other ingredient?
+165,16647657259695163742,graduate school,,31,vis,1,1,13.351,,Suspiro de limeÃ±a,334,"The Suspiro de limeÃ±a
+is characteristic of which city?"
+166,16647657259695163742,graduate school,,31,vis,1,1,38.227,0,Ketupat,220,Ketupat is used in Bali for temple decorations.
+167,16647657259695163742,graduate school,,31,vis,1,1,6.529,0,Ketupat,220,"The Ketupat
+is characteristic of which region?"
+168,16647657259695163742,graduate school,,31,image,1,1,10.937,,Suspiro de limeÃ±a,334,Which of these desserts is a Suspiro de limeÃ±a?
+169,16647657259695163742,graduate school,,31,image,1,1,10.806,,Ketupat,220,Which of these is a plate of Ketupat?
+170,4420124294564562972,college,Advanced,55,non_vis,0,1,31.117,,Hector's dolphin,482,What is the most distinctive feature of Hector's dolphins?
+171,4420124294564562972,college,Advanced,55,non_vis,1,1,11.728,,Hector's dolphin,482,How many white stripes are on the skin of newborn Hector's dolphins?
+172,4420124294564562972,college,Advanced,55,non_vis,1,1,20.385,,Asarum,849,What is the characteristic shape of Asarum leaves?
+173,4420124294564562972,college,Advanced,55,non_vis,0,1,16.901,,Asarum,849,What color are the axillary flowers of Asarum plants?
+174,4420124294564562972,college,Advanced,55,vis,0,1,11.453,1,Hector's dolphin,482,Where are Hector's dolphins endemic to?
+175,4420124294564562972,college,Advanced,55,vis,1,1,7.558,0,Hector's dolphin,482,Which subspecies of Hector's dolphins is more numerous?
+176,4420124294564562972,college,Advanced,55,vis,0,1,13.283,0,Asarum,849,What is the common name of Asarum?
+177,4420124294564562972,college,Advanced,55,vis,0,1,12.104,1,Asarum,849,What sort of soil does wild ginger favor?
+178,4420124294564562972,college,Advanced,55,image,1,1,16.912,,Hector's dolphin,482,Which of these is a Hector's dolphin?
+179,4420124294564562972,college,Advanced,55,image,1,1,17.208,,Asarum,849,Which of these is an Asarum plant?
+180,13555197578714107080,graduate school,Advanced,34,non_vis,0,1,23.516,,La Scapigliata,592,The eyes of the woman depicted are wide open
+181,13555197578714107080,graduate school,Advanced,34,non_vis,1,1,4.127,,La Scapigliata,592,Which part of the painting is actually finished?
+182,13555197578714107080,graduate school,Advanced,34,non_vis,0,1,4.76,,Children's Peace Monument,818,Which material is the crane hanging beneath the main structure of the monument?
+183,13555197578714107080,graduate school,Advanced,34,non_vis,1,1,3.803,,Children's Peace Monument,818,What are the figures surrounding the monument?
+184,13555197578714107080,graduate school,Advanced,34,vis,1,1,5.606,1,La Scapigliata,592,"When was ""La Scapigliata"" painted?"
+185,13555197578714107080,graduate school,Advanced,34,vis,1,1,4.596,1,La Scapigliata,592,Who is the painting attributed to?
+186,13555197578714107080,graduate school,Advanced,34,vis,0,1,3.731,0,Children's Peace Monument,818,Where is the Children's Peace Monument located?
+187,13555197578714107080,graduate school,Advanced,34,vis,1,1,4.621,0,Children's Peace Monument,818,What was the statue unveiled?
+188,13555197578714107080,graduate school,Advanced,34,image,0,1,15.019,,La Scapigliata,592,"Which of these paintings is ""La Scapigliata""?"
+189,13555197578714107080,graduate school,Advanced,34,image,0,1,10.088,,Children's Peace Monument,818,Which of these is the Children's Peace Monument?
+190,7927731493258675003,PhD,Upper-Intermediate,31,non_vis,1,1,18.896,,Gayer-Anderson cat,505,What is sculpted on the staute's forehead?
+191,7927731493258675003,PhD,Upper-Intermediate,31,non_vis,0,1,17.22,,Gayer-Anderson cat,505,Which is the material of the statue's ornaments?
+192,7927731493258675003,PhD,Upper-Intermediate,31,non_vis,0,1,20.646,,Leshan Giant Buddha,433,What kind of cliff face is the Leshan Giant Buddha carved out of?
+193,7927731493258675003,PhD,Upper-Intermediate,31,non_vis,0,1,15.779,,Leshan Giant Buddha,433,Where does the Leshan Giant Buddha sit?
+194,7927731493258675003,PhD,Upper-Intermediate,31,vis,1,1,10.613,0,Gayer-Anderson cat,505,Which egyptian deity does the statue represent?
+195,7927731493258675003,PhD,Upper-Intermediate,31,vis,1,1,12.514,1,Gayer-Anderson cat,505,Which museum is now hosting the statue?
+196,7927731493258675003,PhD,Upper-Intermediate,31,vis,0,1,15.043,1,Leshan Giant Buddha,433,Why did Hai Tong decide to construct the Leshan Giant Buddha in its present location?
+197,7927731493258675003,PhD,Upper-Intermediate,31,vis,1,1,12.382,0,Leshan Giant Buddha,433,What is the only part of the Leshan Giant Buddha's body that is NOT made of stone?
+198,7927731493258675003,PhD,Upper-Intermediate,31,image,1,1,24.933,,Gayer-Anderson cat,505,Which of these is the Gayer-Anderson cat?
+199,7927731493258675003,PhD,Upper-Intermediate,31,image,1,1,11.838,,Leshan Giant Buddha,433,Which is the Leshan Giant Buddha?
+200,582029455779643852,college,Advanced,20,non_vis,0,1,30.035,,Heracleum maximum,711,Which adjective describes the stems of cow parsnip?
+201,582029455779643852,college,Advanced,20,non_vis,1,1,19.219,,Heracleum maximum,711,Which characteristic of the carrot family does Heracleum maximum possess?
+202,582029455779643852,college,Advanced,20,non_vis,0,1,13.25,,Java sparrow,41,What color is the java sparrow's eye-ring?
+203,582029455779643852,college,Advanced,20,non_vis,0,1,13.25,,Java sparrow,41,What color is the java sparrow's belly?
+204,582029455779643852,college,Advanced,20,vis,0,1,14.48,0,Heracleum maximum,711,What is another name for Heracleum maximum?
+205,582029455779643852,college,Advanced,20,vis,0,1,12.155,0,Heracleum maximum,711,Heracleum maximum is used as a pasture plant for which animal species?
+206,582029455779643852,college,Advanced,20,vis,1,1,11.332,1,Java sparrow,41,The java sparrow lays up to how many eggs?
+207,582029455779643852,college,Advanced,20,vis,0,1,11.59,1,Java sparrow,41,The java sparrow lays up to how many eggs?
+208,582029455779643852,college,Advanced,20,image,0,1,26.269,,Heracleum maximum,711,Which of these is a Heracleum maximum plant?
+209,582029455779643852,college,Advanced,20,image,0,1,17.545,,Java sparrow,41,Which of these is a java sparrow?
+210,15181297826445086008,graduate school,Advanced,47,non_vis,1,1,52.683,,Aerodramus,472,Which aspect of Aerodramus swiflets allows them to have fast flight?
+211,15181297826445086008,graduate school,Advanced,47,non_vis,0,1,21.123,,Aerodramus,472,"What color are the ""armpits"" of Aerodramus swiflets?"
+212,15181297826445086008,graduate school,Advanced,47,non_vis,0,2,13.086,,One Worldwide Plaza,716,What is located at the top of One Worldwide Plaza?
+213,15181297826445086008,graduate school,Advanced,47,non_vis,0,2,12.56,,One Worldwide Plaza,716,What material makes up the tower facade?
+214,15181297826445086008,graduate school,Advanced,47,vis,1,1,15.328,0,Aerodramus,472,Which type of region are Aerodramus swiflets confined to?
+215,15181297826445086008,graduate school,Advanced,47,vis,0,1,11.233,1,Aerodramus,472,What distinguishes Aerodramus swiflets from other birds?
+216,15181297826445086008,graduate school,Advanced,47,vis,1,2,8.457,1,One Worldwide Plaza,716,In which New York City neighborhood is One Worldwide Plaza located?
+217,15181297826445086008,graduate school,Advanced,47,vis,0,2,11.64,0,One Worldwide Plaza,716,When was the Worldwide Plaza complex completed?
+218,15181297826445086008,graduate school,Advanced,47,image,1,1,31.424,,Aerodramus,472,Which of these is an Aerodramus swiflet?
+219,15181297826445086008,graduate school,Advanced,47,image,1,2,27.448,,One Worldwide Plaza,716,Which of these is One Worldwide Plaza?
+220,9211992893049357042,college,Advanced,60,non_vis,0,1,21.706,,900 North Michigan,281,Which part of the tower helps to reflect light?
+221,9211992893049357042,college,Advanced,60,non_vis,0,1,15.058,,900 North Michigan,281,"How many lit ""lanterns"" sit atop 900 North Michigan?"
+222,9211992893049357042,college,Advanced,60,non_vis,0,1,44.701,,Spectral bat,870,What color is the back fur of spectral bats?
+223,9211992893049357042,college,Advanced,60,non_vis,0,1,9.561,,Spectral bat,870,What shape are the spectral bat's wingtips?
+224,9211992893049357042,college,Advanced,60,vis,0,1,10.316,0,900 North Michigan,281,Which of these is a common nickname for 900 North Michigan?
+225,9211992893049357042,college,Advanced,60,vis,0,1,13.425,1,900 North Michigan,281,900 North Michigan was initially built as an upscale sister to which building?
+226,9211992893049357042,college,Advanced,60,vis,1,1,8.019,0,Spectral bat,870,What is the mating pattern for spectral bats?
+227,9211992893049357042,college,Advanced,60,vis,0,1,32.914,0,Spectral bat,870,Where do spectral bat colonies usually roost?
+228,9211992893049357042,college,Advanced,60,image,0,1,15.14,,900 North Michigan,281,Which of these is 900 North Michigan?
+229,9211992893049357042,college,Advanced,60,image,0,1,10.697,,Spectral bat,870,Which of these is a spectral bat?
+230,15175578201895420986,graduate school,Advanced,40,non_vis,1,1,14.033,,Chestnut-headed bee-eater,264,Which part of the bird's body is a chestnut color?
+231,15175578201895420986,graduate school,Advanced,40,non_vis,1,1,14.033,,Chestnut-headed bee-eater,264,What color are the outer webs of the bird's central tail feathers?
+232,15175578201895420986,graduate school,Advanced,40,non_vis,0,1,12.606,,Arbutus menziesii,873,What color is the bark of madrona trees before it beigns to peel?
+233,15175578201895420986,graduate school,Advanced,40,non_vis,1,1,19.59,,Arbutus menziesii,873,"In the right conditions, how tall can a madrona tree become?"
+234,15175578201895420986,graduate school,Advanced,40,vis,1,1,12.245,1,Chestnut-headed bee-eater,264,What makes up the majority of the bird's diet?
+235,15175578201895420986,graduate school,Advanced,40,vis,0,1,19.71,0,Chestnut-headed bee-eater,264,What makes up the majority of the bird's diet?
+236,15175578201895420986,graduate school,Advanced,40,vis,0,1,14.078,0,Arbutus menziesii,873,What is the common name of Arbutus menziessi in the United States?
+237,15175578201895420986,graduate school,Advanced,40,vis,1,1,9.288,0,Arbutus menziesii,873,"Which cultures utilized madrona trees for food, jewelry, and fishing?"
+238,15175578201895420986,graduate school,Advanced,40,image,1,1,18.256,,Chestnut-headed bee-eater,264,Which of these is a chestnut-headed bee-eater?
+239,15175578201895420986,graduate school,Advanced,40,image,1,1,11.001,,Arbutus menziesii,873,Which of these is a madrona tree?
+240,11084795837550118847,college,Advanced,31,non_vis,1,2,23.733,,Upland goose,557,"Which feature did Charles Darwin deem to be ""vestigial?"""
+241,11084795837550118847,college,Advanced,31,non_vis,1,2,23.733,,Upland goose,557,What color are the stripes on the wings of female upland geese?
+242,11084795837550118847,college,Advanced,31,non_vis,0,2,55.47,,King colobus,238,The king colobus is distinguished by the location of which feature?
+243,11084795837550118847,college,Advanced,31,non_vis,0,2,6.438,,King colobus,238,Which part of the king colobus body is not covered by a tuft?
+244,11084795837550118847,college,Advanced,31,vis,0,2,27.885,0,Upland goose,557,What is the diet of upland geese?
+245,11084795837550118847,college,Advanced,31,vis,1,2,31.235,0,Upland goose,557,What is the diet of upland geese?
+246,11084795837550118847,college,Advanced,31,vis,0,2,11.197,0,King colobus,238,Where is the king colobus found?
+247,11084795837550118847,college,Advanced,31,vis,0,2,11.208,0,King colobus,238,How many females are in a typical king colobus group?
+248,11084795837550118847,college,Advanced,31,image,1,2,29.415,,Upland goose,557,Which of these is a male upland goose?
+249,11084795837550118847,college,Advanced,31,image,0,2,17.251,,King colobus,238,Which of these is a king colobus?
+250,7072875258773259072,graduate school,Advanced,32,non_vis,0,1,16.022,,Stone spheres of Costa Rica,120,What are most of the Stone Spheres of Costa Rica made of?
+251,7072875258773259072,graduate school,Advanced,32,non_vis,1,1,10.607,,Stone spheres of Costa Rica,120,How big are the diameters of the Stone Spheres of Costa Rica?
+252,7072875258773259072,graduate school,Advanced,32,non_vis,0,1,10.422,,Piazza Navona,337,How many fountains are on the Piazza Navona?
+253,7072875258773259072,graduate school,Advanced,32,non_vis,0,1,9.784,,Piazza Navona,337,What is on top of Piazza Navona's Fountain of the Four Rivers?
+254,7072875258773259072,graduate school,Advanced,32,vis,0,1,12.703,0,Stone spheres of Costa Rica,120,What culture are the Stone Spheres of Costa Rica generally attributed to?
+255,7072875258773259072,graduate school,Advanced,32,vis,1,1,8.481,0,Stone spheres of Costa Rica,120,Who discovered the Stone Spheres of Costa Rica in the 1930s?
+256,7072875258773259072,graduate school,Advanced,32,vis,0,1,8.352,0,Piazza Navona,337,Who sculplted Fountain of the Four Rivers that can be seen on Piazza Navona?
+257,7072875258773259072,graduate school,Advanced,32,vis,1,1,8.374,1,Piazza Navona,337,During what two days of the week was Piazza Navona flooded during August from 1652 until 1866?
+258,7072875258773259072,graduate school,Advanced,32,image,0,1,13.225,,Stone spheres of Costa Rica,120,Which are Stone Spheres of Costa Rica?
+259,7072875258773259072,graduate school,Advanced,32,image,0,1,13.224,,Piazza Navona,337,Which is Piazza Navona?
+260,53296089282396269,professional school,Upper-Intermediate,27,non_vis,0,1,5.904,,Nepeta,682,Which of these is a possbile flower color for Nepeta plants?
+261,53296089282396269,professional school,Upper-Intermediate,27,non_vis,0,1,9.236,,Nepeta,682,How many stamens does each Nepeta flower have?
+262,53296089282396269,professional school,Upper-Intermediate,27,non_vis,0,1,6.797,,Aquilegia,73,How many leaves does each Aquilegia plant have?
+263,53296089282396269,professional school,Upper-Intermediate,27,non_vis,0,1,8.283,,Aquilegia,73,Where is the ring that protects Aquilegia from insects?
+264,53296089282396269,professional school,Upper-Intermediate,27,vis,0,1,12.931,0,Nepeta,682,The name Nepeta is a reference to a city in which ancient society?
+265,53296089282396269,professional school,Upper-Intermediate,27,vis,1,1,4.868,0,Nepeta,682,Some members Nepeta have an affect on which domestic animal?
+266,53296089282396269,professional school,Upper-Intermediate,27,vis,1,1,9.683,0,Aquilegia,73,What type of plant is Aquilegia?
+267,53296089282396269,professional school,Upper-Intermediate,27,vis,1,1,11.521,0,Aquilegia,73,What animal is the genus name Aquilegia derived from?
+268,53296089282396269,professional school,Upper-Intermediate,27,image,1,1,13.311,,Nepeta,682,Which of these is a Nepeta?
+269,53296089282396269,professional school,Upper-Intermediate,27,image,0,1,16.369,,Aquilegia,73,Which of these is an Aquilegia?
+270,2562958503557285153,college,Advanced,44,non_vis,1,2,54.099,,Peppered moth,25,The spotting pattern on peppered moths is usually what color?
+271,2562958503557285153,college,Advanced,44,non_vis,1,2,54.099,,Peppered moth,25,Peppered moths mimic the form and color of what?
+272,2562958503557285153,college,Advanced,44,non_vis,0,1,16.189,,Luxor Las Vegas,843,What shape is the main tower of Luxor?
+273,2562958503557285153,college,Advanced,44,non_vis,0,1,35.882,,Luxor Las Vegas,843,How many ziggurat towers are included in Luxor?
+274,2562958503557285153,college,Advanced,44,vis,0,2,21.261,0,Peppered moth,25,Peppered moth evolution is an example of which model?
+275,2562958503557285153,college,Advanced,44,vis,0,2,25.655,0,Peppered moth,25,Peppered moth evolution is an example of which model?
+276,2562958503557285153,college,Advanced,44,vis,1,1,14.563,1,Luxor Las Vegas,843,Which company operates Luxor?
+277,2562958503557285153,college,Advanced,44,vis,0,1,14.046,1,Luxor Las Vegas,843,What is a current attraction hosted by Luxor?
+278,2562958503557285153,college,Advanced,44,image,1,2,42.616,,Peppered moth,25,Which of these is a Peppered moth?
+279,2562958503557285153,college,Advanced,44,image,1,1,21.121,,Luxor Las Vegas,843,"Which of these is Luxor, Las Vegas?"
+280,7963865692408858895,college,Advanced,55,non_vis,0,1,18.591,,Peckforton Castle,230,What material is the castle faced with?
+281,7963865692408858895,college,Advanced,55,non_vis,1,1,10.347,,Peckforton Castle,230,How many stories is the majority of the castle?
+282,7963865692408858895,college,Advanced,55,non_vis,1,1,16.262,,Palmate newt,555,"Unlike the smooth newt, which part of the Palmate newt is always unspotted?"
+283,7963865692408858895,college,Advanced,55,non_vis,0,1,12.731,,Palmate newt,555,What color is the body of a palmate newt?
+284,7963865692408858895,college,Advanced,55,vis,0,1,10.268,0,Peckforton Castle,230,Peckforton Castle was built during which period of English architecture?
+285,7963865692408858895,college,Advanced,55,vis,1,1,9.555,1,Peckforton Castle,230,"During World War 2, Peckforton Castle was used for which purpose?"
+286,7963865692408858895,college,Advanced,55,vis,0,1,12.008,0,Palmate newt,555,Where do Palmate newts move to during breeding season?
+287,7963865692408858895,college,Advanced,55,vis,1,1,7.961,1,Palmate newt,555,What is the ICUN designation for Palmate newts?
+288,7963865692408858895,college,Advanced,55,image,0,1,15.24,,Peckforton Castle,230,Which of these is Peckforton Castle?
+289,7963865692408858895,college,Advanced,55,image,0,1,11.265,,Palmate newt,555,Which of these is a palmate newt?
+290,936593718181839131,professional school,Advanced,33,non_vis,0,2,12.824,,Ocellate river stingray,267,What shape is the disk of the Ocellate river stingray?
+291,936593718181839131,professional school,Advanced,33,non_vis,1,2,5.982,,Ocellate river stingray,267,What color are the spots across the dorsal coloration?
+292,936593718181839131,professional school,Advanced,33,non_vis,1,1,5.677,,Skink,754,What color blood do Skinks have?
+293,936593718181839131,professional school,Advanced,33,non_vis,0,1,5.35,,Skink,754,What color blood do Skinks have?
+294,936593718181839131,professional school,Advanced,33,vis,0,2,6.547,1,Ocellate river stingray,267,What is an alternate name for the Ocellate river stingray?
+295,936593718181839131,professional school,Advanced,33,vis,1,2,3.989,0,Ocellate river stingray,267,"How many ""main types"" of Ocellate river stingrays exist?"
+296,936593718181839131,professional school,Advanced,33,vis,0,1,4.163,0,Skink,754,Which superlative best describes the Scincidae family?
+297,936593718181839131,professional school,Advanced,33,vis,0,1,4.163,0,Skink,754,In which habitat are skinks not found?
+298,936593718181839131,professional school,Advanced,33,image,1,2,8.375,,Ocellate river stingray,267,Which of these is an Ocellate river stingray?
+299,936593718181839131,professional school,Advanced,33,image,0,1,6.121,,Skink,754,Which of these is a skink?
+300,14193465657525686091,PhD,Advanced,27,non_vis,1,1,24.714,,Scaphites,920,Which part of the shell is more tightly compressed?
+301,14193465657525686091,PhD,Advanced,27,non_vis,1,1,13.551,,Scaphites,920,Which part of the shell is the shortest?
+302,14193465657525686091,PhD,Advanced,27,non_vis,1,1,17.768,,Marbled cat,346,What pattern exiists on the underbelly of the marbeled cat?
+303,14193465657525686091,PhD,Advanced,27,non_vis,1,1,10.11,,Marbled cat,346,Which feature of the marbled cat is unusually large?
+304,14193465657525686091,PhD,Advanced,27,vis,0,1,13.132,0,Scaphites,920,During which period did Scaphites thrive?
+305,14193465657525686091,PhD,Advanced,27,vis,1,1,7.262,0,Scaphites,920,What shape is the shell of Scaphities?
+306,14193465657525686091,PhD,Advanced,27,vis,1,1,26.358,0,Marbled cat,346,What region is the marbled cat native to?
+307,14193465657525686091,PhD,Advanced,27,vis,0,1,12.085,0,Marbled cat,346,Which species is the marbled cat closely related to?
+308,14193465657525686091,PhD,Advanced,27,image,0,1,6.665,,Scaphites,920,Which of these is a Scaphite?
+309,14193465657525686091,PhD,Advanced,27,image,0,1,10.806,,Marbled cat,346,Which of these is a marbled cat?
+310,12855730556963801641,PhD,Upper-Intermediate,31,non_vis,0,1,7.29,,Lombard Street (San Francisco),574,Which feature of Lombard Street makes it famous?
+311,12855730556963801641,PhD,Upper-Intermediate,31,non_vis,1,1,6.195,,Lombard Street (San Francisco),574,How many turns does Lombard Street have?
+312,12855730556963801641,PhD,Upper-Intermediate,31,non_vis,1,1,11.006,,Red slender loris,349,Which feature does the Red slender loris not have?
+313,12855730556963801641,PhD,Upper-Intermediate,31,non_vis,1,1,11.661,,Red slender loris,349,What color is the back of the Red slender loris?
+314,12855730556963801641,PhD,Upper-Intermediate,31,vis,1,1,5.834,1,Lombard Street (San Francisco),574,Lombard Street is a part of which US highway system?
+315,12855730556963801641,PhD,Upper-Intermediate,31,vis,1,1,5.255,1,Lombard Street (San Francisco),574,Where is the original street that Lombard Street is named for?
+316,12855730556963801641,PhD,Upper-Intermediate,31,vis,1,1,14.561,1,Red slender loris,349,Where is the Red slender loris native to?
+317,12855730556963801641,PhD,Upper-Intermediate,31,vis,1,1,9.57,1,Red slender loris,349,How many subspecies of Red slender loris have been identified?
+318,12855730556963801641,PhD,Upper-Intermediate,31,image,1,1,11.829,,Lombard Street (San Francisco),574,Which of these is Lombard Street in San Francisco?
+319,12855730556963801641,PhD,Upper-Intermediate,31,image,1,1,12.413,,Red slender loris,349,Which of these is a Red slender loris?
+320,1148595584317409461,high school,Advanced,30,non_vis,0,1,16.81,,Central Plaza (Hong Kong),271,What is the tallest part of the tower?
+321,1148595584317409461,high school,Advanced,30,non_vis,0,1,16.099,,Central Plaza (Hong Kong),271,The tower is roughly similar in shape to what?
+322,1148595584317409461,high school,Advanced,30,non_vis,1,1,12.528,,Labrador duck,840,What color was the male Labrador duck plumage?
+323,1148595584317409461,high school,Advanced,30,non_vis,0,1,7.405,,Labrador duck,840,"Compared to the body, where were the Labrador duck's feet located?"
+324,1148595584317409461,high school,Advanced,30,vis,0,1,8.993,0,Central Plaza (Hong Kong),271,When was Central Plaza completed?
+325,1148595584317409461,high school,Advanced,30,vis,0,1,35.344,1,Central Plaza (Hong Kong),271,The clock at the top of the tower tells time by changing what every 15 minutes?
+326,1148595584317409461,high school,Advanced,30,vis,0,1,11.774,1,Labrador duck,840,Where was the last known sighting of the Labrador duck?
+327,1148595584317409461,high school,Advanced,30,vis,0,1,27.097,0,Labrador duck,840,What did the Labrador duck feed on?
+328,1148595584317409461,high school,Advanced,30,image,1,1,8.969,,Central Plaza (Hong Kong),271,Which of these is the Central Plaza in Hong Kong?
+329,1148595584317409461,high school,Advanced,30,image,1,1,8.764,,Labrador duck,840,Which of these is a male Labrador duck?
+330,5493840280980832994,college,Advanced,33,non_vis,1,1,11.369,,European shag,111,What color is the sheen on the European shag's feathers?
+331,5493840280980832994,college,Advanced,33,non_vis,0,1,5.104,,European shag,111,Which feature belongs only to juvenile European shags?
+332,5493840280980832994,college,Advanced,33,non_vis,0,1,6.045,,Manx shearwater,635,"When flying, Manx shearwaters take which shape?"
+333,5493840280980832994,college,Advanced,33,non_vis,1,1,3.8,,Manx shearwater,635,How much can a Manx shearwater weigh?
+334,5493840280980832994,college,Advanced,33,vis,0,1,6.232,0,European shag,111,What kind of birds are European shags?
+335,5493840280980832994,college,Advanced,33,vis,0,1,6.152,0,European shag,111,How far do European shags dive?
+336,5493840280980832994,college,Advanced,33,vis,0,1,4.064,0,Manx shearwater,635,What name was given to the Manx shearwater in the 17th century?
+337,5493840280980832994,college,Advanced,33,vis,0,1,4.635,0,Manx shearwater,635,Female Manx shearwaters can recognize the calls of which grouo?
+338,5493840280980832994,college,Advanced,33,image,0,1,328.625,,European shag,111,Which of these is a European shag?
+339,5493840280980832994,college,Advanced,33,image,0,1,5.4,,Manx shearwater,635,Which of these is a Manx shearwater?
+340,11816170592161383927,college,Advanced,59,non_vis,0,3,17.661,,Common sandpiper,295,What distinguishes the common sandpiper from the Spotted sandpiper?
+341,11816170592161383927,college,Advanced,59,non_vis,0,3,24.628,,Common sandpiper,295,What color are the Common sandpiper's underparts?
+342,11816170592161383927,college,Advanced,59,non_vis,1,2,6.171,,The Shard,377,What shape is the Shard's outer appearance?
+343,11816170592161383927,college,Advanced,59,non_vis,0,2,22.179,,The Shard,377,What shape is the Shard's outer appearance?
+344,11816170592161383927,college,Advanced,59,vis,0,3,27.939,0,Common sandpiper,295,What is the American sister to the Common sandpiper?
+345,11816170592161383927,college,Advanced,59,vis,1,3,8.407,1,Common sandpiper,295,The current scientitic name of Common sandpipers is derived from which language?
+346,11816170592161383927,college,Advanced,59,vis,1,2,9.53,1,The Shard,377,Where is The Shard located?
+347,11816170592161383927,college,Advanced,59,vis,1,2,9.53,1,The Shard,377,In which year was The Shard inaugurated?
+348,11816170592161383927,college,Advanced,59,image,1,3,20.286,,Common sandpiper,295,Which of these is a Common sandpiper?
+349,11816170592161383927,college,Advanced,59,image,1,2,11.333,,The Shard,377,Which of these is The Shard
+350,10564335716282419460,college,Advanced,42,non_vis,0,1,15.305,,Trillium erectum,358,What is the common texture for Trillium erectum flowers?
+351,10564335716282419460,college,Advanced,42,non_vis,1,1,15.604,,Trillium erectum,358,What petal color is typically seen in Trillium erectum?
+352,10564335716282419460,college,Advanced,42,non_vis,0,1,18.116,,White-throated dipper,844,What feature are young White-throated dippers missing?
+353,10564335716282419460,college,Advanced,42,non_vis,0,1,15.645,,White-throated dipper,844,What color is the throat of White-throated dippers?
+354,10564335716282419460,college,Advanced,42,vis,0,1,20.918,0,Trillium erectum,358,What is another name for Trillium erectum?
+355,10564335716282419460,college,Advanced,42,vis,0,1,11.023,1,Trillium erectum,358,Where is Trillium erectum native to?
+356,10564335716282419460,college,Advanced,42,vis,0,1,14.252,0,White-throated dipper,844,White-throated dipper subspecies are divided primarily based on which feature?
+357,10564335716282419460,college,Advanced,42,vis,1,1,8.542,1,White-throated dipper,844,What is the mating call used by male White-throated dipper?
+358,10564335716282419460,college,Advanced,42,image,1,1,9.983,,Trillium erectum,358,Which of these is a Trillium erectum?
+359,10564335716282419460,college,Advanced,42,image,1,1,13.043,,White-throated dipper,844,Which of these is a White-throated dipper?
+360,1188222453103673515,college,Advanced,19,non_vis,1,1,14.751,,Laysan finch,815,What color is the plumage for male Laysan finches?
+361,1188222453103673515,college,Advanced,19,non_vis,1,1,14.751,,Laysan finch,815,Which of these is a feature of the Laysan finch?
+362,1188222453103673515,college,Advanced,19,non_vis,1,1,7.884,,Wied's marmoset,379,What color are the tufts coming out of the marmoset's ears?
+363,1188222453103673515,college,Advanced,19,non_vis,1,1,5.961,,Wied's marmoset,379,Where are the white markings located on the marmoset?
+364,1188222453103673515,college,Advanced,19,vis,1,1,7.76,0,Laysan finch,815,What is the IUCN designation for the Laysan finch?
+365,1188222453103673515,college,Advanced,19,vis,0,1,9.402,1,Laysan finch,815,What is the IUCN designation for the Laysan finch?
+366,1188222453103673515,college,Advanced,19,vis,0,1,6.488,0,Wied's marmoset,379,Whch type of social organization do Weid's marmosets follow?
+367,1188222453103673515,college,Advanced,19,vis,0,1,9.858,1,Wied's marmoset,379,Which of these is a predator of Wied's marmosets?
+368,1188222453103673515,college,Advanced,19,image,1,1,7.961,,Laysan finch,815,Which of these is a Laysan finch?
+369,1188222453103673515,college,Advanced,19,image,0,1,9.47,,Wied's marmoset,379,Which of these is a Wied's marmoset?
+370,2851142290518132015,college,Advanced,33,non_vis,1,1,13.535,,Allium ramosum,474,Up to how tall do Allium ramosum scapes grow?
+371,2851142290518132015,college,Advanced,33,non_vis,0,1,14.158,,Allium ramosum,474,What color can Allium ramosum tepals be?
+372,2851142290518132015,college,Advanced,33,non_vis,0,1,11.135,,Chrysiptera hemicyanea,305,Where is the gold coloring on Chrysiptera hemicyanea?
+373,2851142290518132015,college,Advanced,33,non_vis,0,1,11.135,,Chrysiptera hemicyanea,305,What differentiates species within the Chrysiptera hemicyanea genus?
+374,2851142290518132015,college,Advanced,33,vis,0,1,15.6,0,Allium ramosum,474,Allium ramosum is used to treat problems in which body part?
+375,2851142290518132015,college,Advanced,33,vis,0,1,8.634,1,Allium ramosum,474,When is Allium ramosum gathered?
+376,2851142290518132015,college,Advanced,33,vis,0,1,8.988,1,Chrysiptera hemicyanea,305,Who will stick around to protect Chrysiptera hemicyanea eggs?
+377,2851142290518132015,college,Advanced,33,vis,1,1,9.848,0,Chrysiptera hemicyanea,305,Who will stick around to protect Chrysiptera hemicyanea eggs?
+378,2851142290518132015,college,Advanced,33,image,1,1,15.062,,Allium ramosum,474,Which of these is an Allium ramosum?
+379,2851142290518132015,college,Advanced,33,image,1,1,14.214,,Chrysiptera hemicyanea,305,Which of these is a Chrysiptera hemicyanea?
+380,17272223620311040952,college,Advanced,38,non_vis,1,2,18.229,,Speckled day gecko,874,What color is the gecko's body?
+381,17272223620311040952,college,Advanced,38,non_vis,1,2,12.306,,Speckled day gecko,874,The stripes on the throat of the Speckled day gecko are in the shape of which letter?
+382,17272223620311040952,college,Advanced,38,non_vis,1,1,14.434,,Ricefish,479,Oryzias have a distinctive appearance due to an unusual structure in which body part?
+383,17272223620311040952,college,Advanced,38,non_vis,1,1,14.434,,Ricefish,479,What color has the Japanese ricefish been bred into?
+384,17272223620311040952,college,Advanced,38,vis,1,2,10.947,1,Speckled day gecko,874,What does the Speckled day gecko feed on?
+385,17272223620311040952,college,Advanced,38,vis,1,2,15.391,0,Speckled day gecko,874,Where do Speckled day geckos live?
+386,17272223620311040952,college,Advanced,38,vis,0,1,15.636,0,Ricefish,479,Ricefish have been known to be kept in aquariums since which century?
+387,17272223620311040952,college,Advanced,38,vis,0,1,11.265,0,Ricefish,479,Ricefish have been known to be kept in aquariums since which century?
+388,17272223620311040952,college,Advanced,38,image,0,2,20.352,,Speckled day gecko,874,Which of these is a Speckled day gecko?
+389,17272223620311040952,college,Advanced,38,image,1,1,12.496,,Ricefish,479,Which of these is a Japanese ricefish?
+390,14850072865519976591,high school,Advanced,36,non_vis,0,1,20.097,,Many-banded aracari,173,What color is the top of the aracari's beak?
+391,14850072865519976591,high school,Advanced,36,non_vis,1,1,11.954,,Many-banded aracari,173,How many horizontal bands are on the aracari's body?
+392,14850072865519976591,high school,Advanced,36,non_vis,0,1,12.169,,Cinereous vulture,168,What is a possible weight for a Cinereous vulture?
+393,14850072865519976591,high school,Advanced,36,non_vis,0,1,12.169,,Cinereous vulture,168,Which body part can be used to distinguish between Cinereous vulture and its closely related species?
+394,14850072865519976591,high school,Advanced,36,vis,0,1,11.14,1,Many-banded aracari,173,In which of the following countries are Many-banded aracaris found?
+395,14850072865519976591,high school,Advanced,36,vis,0,1,7.159,1,Many-banded aracari,173,What type of diet do Many-banded aracaris follow?
+396,14850072865519976591,high school,Advanced,36,vis,0,1,4.78,0,Cinereous vulture,168,What is another common name for the Cinereous vulture?
+397,14850072865519976591,high school,Advanced,36,vis,1,1,11.702,0,Cinereous vulture,168,What is another common name for the Cinereous vulture?
+398,14850072865519976591,high school,Advanced,36,image,1,1,16.984,,Many-banded aracari,173,Which of these is a many-banded aracari?
+399,14850072865519976591,high school,Advanced,36,image,1,1,9.152,,Cinereous vulture,168,Which of these is a Cinereous vulture?
+400,17374049256949106344,professional school,Advanced,55,non_vis,0,1,17.958,,Robin accentor,46,Which adjective describes the beak of Robin accentors?
+401,17374049256949106344,professional school,Advanced,55,non_vis,0,1,7.867,,Robin accentor,46,Wat color are the Robin accentor's wing tips?
+402,17374049256949106344,professional school,Advanced,55,non_vis,1,1,8.569,,African blue flycatcher,242,Which of these features does the African blue flycatcher possess?
+403,17374049256949106344,professional school,Advanced,55,non_vis,1,1,8.569,,African blue flycatcher,242,What do juvenile African blue flycatchers have that adults do not?
+404,17374049256949106344,professional school,Advanced,55,vis,0,1,9.443,1,Robin accentor,46,Where are Robin accentors commonly found?
+405,17374049256949106344,professional school,Advanced,55,vis,1,1,10.894,0,Robin accentor,46,What makes up the diet of Robin accentors?
+406,17374049256949106344,professional school,Advanced,55,vis,0,1,9.446,1,African blue flycatcher,242,What is the call of the African blue flycatcher?
+407,17374049256949106344,professional school,Advanced,55,vis,0,1,12.05,0,African blue flycatcher,242,What is the call of the African blue flycatcher?
+408,17374049256949106344,professional school,Advanced,55,image,0,1,20.374,,Robin accentor,46,Which of these is a Robin accentor?
+409,17374049256949106344,professional school,Advanced,55,image,0,1,17.213,,African blue flycatcher,242,Which of these is an African blue flycatcher?
+410,12616518284773969097,high school,Advanced,18,non_vis,0,1,11.507,,Red-flanked bluetail,169,What color are the upper parts for male Red-flanked bluetails?
+411,12616518284773969097,high school,Advanced,18,non_vis,0,1,11.507,,Red-flanked bluetail,169,How long is the Red-flanked bluetail?
+412,12616518284773969097,high school,Advanced,18,non_vis,0,1,7.426,,Tsing Ma Bridge,514,How many lanes of automobile traffic does Tsing Ma bridge carry?
+413,12616518284773969097,high school,Advanced,18,non_vis,0,1,6.364,,Tsing Ma Bridge,514,How tall is Tsing Ma bridge?
+414,12616518284773969097,high school,Advanced,18,vis,1,1,6.701,1,Red-flanked bluetail,169,Where does the Red-flanked bluetail spend its winters?
+415,12616518284773969097,high school,Advanced,18,vis,0,1,8.912,0,Red-flanked bluetail,169,Where does the Red-flanked bluetail spend its winters?
+416,12616518284773969097,high school,Advanced,18,vis,0,1,6.399,0,Tsing Ma Bridge,514,What is Tsing Ma Bridge named after?
+417,12616518284773969097,high school,Advanced,18,vis,0,1,4.57,0,Tsing Ma Bridge,514,"On the list of the world's longest suspension bridges, where does Tsing Ma fall?"
+418,12616518284773969097,high school,Advanced,18,image,0,1,9.328,,Red-flanked bluetail,169,Which of these is a male Red-flanked bluetail?
+419,12616518284773969097,high school,Advanced,18,image,0,1,7.563,,Tsing Ma Bridge,514,Which of these is Tsing Ma bridge?
+420,10885091009199947908,professional school,Advanced,28,non_vis,0,1,4.117,,Lemuridae,109,How much do lemurids weigh?
+421,10885091009199947908,professional school,Advanced,28,non_vis,0,1,5.847,,Lemuridae,109,"Compared to other lemurs, lemurids lack a layer in which part of their body?"
+422,10885091009199947908,professional school,Advanced,28,non_vis,0,1,9.69,,Malvales,588,Which of these is a common characteristic of Malvales?
+423,10885091009199947908,professional school,Advanced,28,non_vis,0,1,7.657,,Malvales,588,Which adjective can be used to describe the cortex of Malvales?
+424,10885091009199947908,professional school,Advanced,28,vis,0,1,5.468,0,Lemuridae,109,Where is Lemuridae native to?
+425,10885091009199947908,professional school,Advanced,28,vis,0,1,6.42,0,Lemuridae,109,Lemur species diversity increases in which areas?
+426,10885091009199947908,professional school,Advanced,28,vis,0,1,8.977,0,Malvales,588,Which of these is a well known member of the Malvales order?
+427,10885091009199947908,professional school,Advanced,28,vis,0,1,8.152,0,Malvales,588,What are many species of Malvacae known for?
+428,10885091009199947908,professional school,Advanced,28,image,0,1,12.885,,Lemuridae,109,Which of these is a Lemurid?
+429,10885091009199947908,professional school,Advanced,28,image,0,1,8.008,,Malvales,588,Which of these is a Malvale plant?
